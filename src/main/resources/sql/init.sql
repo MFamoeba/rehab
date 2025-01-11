@@ -1,0 +1,4 @@
+GRANT SELECT,INSERT,DELETE,UPDATE ON TABLE public.account TO rehabasm;
+GRANT SELECT,INSERT,DELETE,UPDATE ON TABLE public.role TO rehabasm;
+GRANT SELECT,INSERT,DELETE,UPDATE ON TABLE public.account_role TO rehabasm;
+GRANT SELECT,INSERT,DELETE,UPDATE ON TABLE public.personal_data TO rehabasm;
